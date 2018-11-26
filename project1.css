@@ -1,0 +1,66 @@
+body{
+    background: white;
+    
+    
+   
+}
+#logo{
+    margin-left: 5px;
+    width: 100px;
+    right: 20px;
+}
+.icon2{
+    background: red;
+    color: white;
+    border: red solid;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    order: 2;
+    float: right;
+    margin-bottom: 30px;
+    right: 10px;
+    align-self: center;
+    font-size: 12px;
+    
+
+    .icons{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    
+    }
+}
+ #bottom{
+     width: 100%;
+     bottom: 0px;
+     position: absolute;
+     right: 0px;
+     left: 0px;
+     height: 25%;
+ }
+ #from_wrapper{
+     height: 45px;
+     width: 550px;
+     border-radius: 19px;
+     background: rgb(214, 224, 224);
+     <div id="fkbx-spch" tabindex="0" aria-label="Search by voice" style="display: block;"></div>
+  
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin: 250px 200px 150px 250px;
+    
+}
+.images{
+    padding-top: 20px;
+}
+
+
+   
